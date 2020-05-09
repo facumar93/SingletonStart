@@ -8,7 +8,7 @@ namespace Program
         {
             Singleton<Greeter>.Instance.SayHiToTheWorld();
             Singleton<Greeter>.Instance.SayHiToTheWorld();
-            Singleton<Joke>.Instance.SaySomething();
+            Singleton<BlackJoke>.Instance.SaySomething();
         }
     }
 }
