@@ -2,16 +2,16 @@ using System;
 
 namespace Library
 {
-    public class Insultme
+    public class Joke
     {
-        public Insultme()
+        public Joke()
         {
             // Intentionally left blank
         }
 
         public void SaySomething()
         {
-            Console.WriteLine("Hello stupid Asshole!");
+            Console.WriteLine("Hello jackass!");
         }
     }
 }
